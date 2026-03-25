@@ -2,6 +2,8 @@
 
 ## 📌 Project Description
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19e57e0a-2b41-476d-b166-e631ef79ae85" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-25 143613" src="https://github.com/user-attachments/assets/14135b74-b574-47db-91e5-bb80c965ca08" />
+
 
 This project is a basic decentralized voting system built using Soroban smart contracts on the Stellar blockchain. It allows users to vote for predefined candidates in a transparent and tamper-proof way.
 
